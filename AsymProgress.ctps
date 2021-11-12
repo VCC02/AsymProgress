@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="AsymProgress.ppr"/>
+        <FRMtype Value="0"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="0"/>
+        <CursorPos Y="24"/>
+        <UsageCount Value="20"/>
+      </Unit>
+      <Unit>
+        <Filename Value="AsymProgressMainForm.pas"/>
+        <FRMtype Value="200"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmAsymProgressMain"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="133"/>
+        <CursorPos Y="142"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\codetyphon\typhon\lcl\comctrls.pp"/>
+        <FRMtype Value="0"/>
+        <UnitName Value="ComCtrls"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1840"/>
+        <CursorPos X="3" Y="1827"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="AsymProgressSettingsForm.pas"/>
+        <FRMtype Value="200"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmAsymProgressSettings"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="50"/>
+        <CursorPos X="66" Y="66"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\codetyphon\typhon\lcl\dialogs.pp"/>
+        <FRMtype Value="0"/>
+        <UnitName Value="Dialogs"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="20"/>
+        <CursorPos X="3" Y="37"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\codetyphon\typhon\components\BaseUtils\uitypes.pas"/>
+        <FRMtype Value="0"/>
+        <UnitName Value="UITypes"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="7"/>
+        <CursorPos X="38" Y="22"/>
+        <UsageCount Value="10"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="AsymProgressMainForm.pas"/>
+        <Caret Line="105" Column="24" TopLine="89"/>
+      </Position>
+      <Position>
+        <Filename Value="AsymProgressMainForm.pas"/>
+        <Caret Line="106" Column="107" TopLine="89"/>
+      </Position>
+      <Position>
+        <Filename Value="AsymProgressMainForm.pas"/>
+        <Caret Line="107" Column="52" TopLine="90"/>
+      </Position>
+      <Position>
+        <Filename Value="AsymProgressMainForm.pas"/>
+        <Caret Line="148" Column="37" TopLine="130"/>
+      </Position>
+      <Position>
+        <Filename Value="AsymProgressMainForm.pas"/>
+        <Caret Line="156" Column="11" TopLine="138"/>
+      </Position>
+      <Position>
+        <Filename Value="AsymProgressMainForm.pas"/>
+        <Caret Line="129" Column="11" TopLine="114"/>
+      </Position>
+      <Position>
+        <Filename Value="AsymProgressMainForm.pas"/>
+        <Caret Line="59" Column="15" TopLine="43"/>
+      </Position>
+      <Position>
+        <Filename Value="AsymProgressMainForm.pas"/>
+        <Caret Line="10" Column="28"/>
+      </Position>
+      <Position>
+        <Filename Value="AsymProgressMainForm.pas"/>
+        <Caret Line="84" Column="29" TopLine="67"/>
+      </Position>
+      <Position>
+        <Filename Value="AsymProgressMainForm.pas"/>
+        <Caret Line="117" Column="5" TopLine="91"/>
+      </Position>
+      <Position>
+        <Filename Value="AsymProgressMainForm.pas"/>
+        <Caret Line="118" Column="5" TopLine="92"/>
+      </Position>
+      <Position>
+        <Filename Value="AsymProgressMainForm.pas"/>
+        <Caret Line="100" Column="43" TopLine="92"/>
+      </Position>
+      <Position>
+        <Filename Value="AsymProgressMainForm.pas"/>
+        <Caret Line="135" Column="11" TopLine="123"/>
+      </Position>
+      <Position>
+        <Filename Value="AsymProgressSettingsForm.pas"/>
+        <Caret Line="14" Column="29" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="AsymProgressSettingsForm.pas"/>
+        <Caret Line="15" Column="26" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="AsymProgressSettingsForm.pas"/>
+        <Caret Line="16" Column="5" TopLine="9"/>
+      </Position>
+      <Position>
+        <Filename Value="AsymProgressSettingsForm.pas"/>
+        <Caret Line="17" Column="16" TopLine="9"/>
+      </Position>
+      <Position>
+        <Filename Value="AsymProgressSettingsForm.pas"/>
+        <Caret Line="18" Column="12" TopLine="9"/>
+      </Position>
+      <Position>
+        <Filename Value="AsymProgressSettingsForm.pas"/>
+        <Caret Line="73" Column="24" TopLine="39"/>
+      </Position>
+      <Position>
+        <Filename Value="AsymProgressSettingsForm.pas"/>
+        <Caret Line="81" Column="9" TopLine="50"/>
+      </Position>
+      <Position>
+        <Filename Value="AsymProgressMainForm.pas"/>
+        <Caret Line="159" Column="23" TopLine="146"/>
+      </Position>
+      <Position>
+        <Filename Value="AsymProgressMainForm.pas"/>
+        <Caret Line="184" TopLine="173"/>
+      </Position>
+      <Position>
+        <Filename Value="AsymProgressMainForm.pas"/>
+        <Caret Line="180" Column="23" TopLine="180"/>
+      </Position>
+      <Position>
+        <Filename Value="AsymProgressMainForm.pas"/>
+        <Caret Line="364" Column="28" TopLine="352"/>
+      </Position>
+      <Position>
+        <Filename Value="AsymProgressMainForm.pas"/>
+        <Caret Line="230" Column="27" TopLine="225"/>
+      </Position>
+      <Position>
+        <Filename Value="AsymProgressMainForm.pas"/>
+        <Caret Line="409" Column="25" TopLine="381"/>
+      </Position>
+      <Position>
+        <Filename Value="AsymProgressMainForm.pas"/>
+        <Caret Line="99" Column="35" TopLine="84"/>
+      </Position>
+      <Position>
+        <Filename Value="AsymProgressMainForm.pas"/>
+        <Caret Line="94" Column="23" TopLine="113"/>
+      </Position>
+      <Position>
+        <Filename Value="AsymProgressMainForm.pas"/>
+        <Caret Line="414" Column="18" TopLine="392"/>
+      </Position>
+      <Position>
+        <Filename Value="AsymProgressMainForm.pas"/>
+        <Caret Line="70" Column="15" TopLine="233"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
