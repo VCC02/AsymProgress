@@ -40,6 +40,7 @@
         <FRMtype Value="200"/>
         <IsPartOfProject Value="True"/>
         <ComponentName Value="frmAsymProgressMain"/>
+        <HasResources Value="True"/>
         <ResourceBaseClass Value="Form"/>
       </Unit>
       <Unit>
@@ -47,6 +48,7 @@
         <FRMtype Value="200"/>
         <IsPartOfProject Value="True"/>
         <ComponentName Value="frmAsymProgressSettings"/>
+        <HasResources Value="True"/>
         <ResourceBaseClass Value="Form"/>
       </Unit>
     </Units>
